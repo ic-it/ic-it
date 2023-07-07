@@ -1,5 +1,5 @@
 # Hi there, I'm Illia
-### IT Student and Python Developer 
+## IT Student and Strong Junior Developer 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+FIIT+STU)](https://git.io/typing-svg) -->
 
 <!--
